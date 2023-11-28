@@ -1,19 +1,24 @@
-Week 3 Practical
+**Week 3 Practical**
 
-Q Trapezodial Rule
+Q1. **Trapezodial Rule**
 
-To Compile
+**To Compile**
+	 
     gcc TrapezoidalRule.c -o TrapezoidalRule -lm -Wall
 
-To print
+**To print**
+
     ./TrapezoidalRule
 
-UsePrint
+**UsePrint**
 
-To Compile
+**To Compile**
+	 
     gcc UsePrint.c -o UsePrint -lm -Wall
 
-To print
+**To print**
+
     ./UsePrint
 
--lm is to map math library to the gcc and -Wall is to show all the warnings
+**-lm** is to map math library to the gcc and **-Wall** is to show all the warnings
+
